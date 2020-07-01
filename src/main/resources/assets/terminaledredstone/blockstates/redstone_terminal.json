@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=down,input=true": { "model": "terminaledredstone:block/redstone_terminal_input", "x": 180 },
+    "facing=up,input=true": { "model": "terminaledredstone:block/redstone_terminal_input" },
+    "facing=north,input=true": { "model": "terminaledredstone:block/redstone_terminal_input", "x": 90 },
+    "facing=south,input=true": { "model": "terminaledredstone:block/redstone_terminal_input", "x": 90, "y": 180 },
+    "facing=west,input=true": { "model": "terminaledredstone:block/redstone_terminal_input", "x": 90, "y": 270 },
+    "facing=east,input=true": { "model": "terminaledredstone:block/redstone_terminal_input", "x": 90, "y": 90 },
+    "facing=down,input=false": { "model": "terminaledredstone:block/redstone_terminal_output", "x": 180 },
+    "facing=up,input=false": { "model": "terminaledredstone:block/redstone_terminal_output" },
+    "facing=north,input=false": { "model": "terminaledredstone:block/redstone_terminal_output", "x": 90 },
+    "facing=south,input=false": { "model": "terminaledredstone:block/redstone_terminal_output", "x": 90, "y": 180 },
+    "facing=west,input=false": { "model": "terminaledredstone:block/redstone_terminal_output", "x": 90, "y": 270 },
+    "facing=east,input=false": { "model": "terminaledredstone:block/redstone_terminal_output", "x": 90, "y": 90 }
+  }
+}
